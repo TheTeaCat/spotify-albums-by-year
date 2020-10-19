@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/albums-by-year/precache-manifest.84ab552f906389009c2d4796c3f5c194.js"
+  "/albums-by-year/precache-manifest.29d98ec7118aaa433d0b87783dc0c676.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "albums-by-year"});
